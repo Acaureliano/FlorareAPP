@@ -1,2 +1,2 @@
-# FLORARE-APP
+# FlorareAPP
 Inventário florestal.
